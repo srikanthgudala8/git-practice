@@ -7,7 +7,7 @@ app = FastAPI()
 dynamodb = boto3.resource('dynamodb', region_name='us-east-1')
 table = dynamodb.Table('CloudTrainingCourses')
 
-class Course(BaseModel):
+class Course(BaseModel):   /adding comments
     title: str
     description: str
     level: str  # e.g., Beginner, Advanced
