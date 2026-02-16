@@ -11,10 +11,8 @@ git pull
 git rebase
 
 
-<<<<<<< HEAD
 
 git log
 git status
 git diff
-=======
->>>>>>> 60bb3b9ecf295139179d9f9d859d07351405a8e0
+
