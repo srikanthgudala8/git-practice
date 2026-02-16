@@ -3,11 +3,11 @@ Hello
 git add 
 git commit
 git push`
-<<<<<<< HEAD
+
 git cheery pick
-=======
+
 git fetch
 git pull
 git rebase
 
->>>>>>> e0f3c7e294ed9dcf8d9f3d1b6247ccf631bafdd2
+
